@@ -1,7 +1,7 @@
 # Clever Meta | NFT MarketPlace
  ![postre-2](https://user-images.githubusercontent.com/66480577/200174792-ec3389a1-045b-4c83-bc27-b4a76a131b47.jpg)
 
-## <h1 align="center"> Technologies We Use </h1>
+## Technologies We Use
 
 <div id='lojc' align="center">
 
