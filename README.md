@@ -16,6 +16,13 @@
 
 - Assume you are exchanging NFTs with someone. You must agree that one of you will send an NFT to the other first, and the other will respond with an NFT. In this instance, there is a possibility that the person who receives the NFT first will steal it, making it difficult to trade NFTs with confidence. As a result, we created a new platform that allows for the distributed blockchain direct transfer of NFTs.
 
+# Screenshot 
+ ## Home Page
+    ![Screenshot (190)](https://user-images.githubusercontent.com/66480577/200175377-ae262d63-29d0-4c28-adaf-1f194a4fc75b.png)
+## Home Page In Lite Version
+ ![Screenshot (295)](https://user-images.githubusercontent.com/66480577/200175416-fde8ef13-aa9e-4895-8be2-e3d0bb1d91a5.png)
+
+ 
 ## What it does
 - CLEVARMETA is a platform for the direct exchange of NFTs. To accomplish the exchange between users. Coming to the project idea – Wallet Basically, A wallet that allows you to spend your ethers.you’ll create a smart contract that is able to receive ethers from other addresses and transfer ethers to other addresses.
  
