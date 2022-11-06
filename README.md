@@ -24,6 +24,9 @@
 ## Home Page In Lite Version
  ![Screenshot (295)](https://user-images.githubusercontent.com/66480577/200175416-fde8ef13-aa9e-4895-8be2-e3d0bb1d91a5.png)
 
+ ## Latest Collection
+ ![Screenshot (191)](https://user-images.githubusercontent.com/66480577/200175692-4dae7e65-918f-4760-a0b6-75b2b2ab1a6b.png)
+
  
 ## What it does
 - CLEVARMETA is a platform for the direct exchange of NFTs. To accomplish the exchange between users. Coming to the project idea – Wallet Basically, A wallet that allows you to spend your ethers.you’ll create a smart contract that is able to receive ethers from other addresses and transfer ethers to other addresses.
