@@ -15,7 +15,7 @@
 - NFTs on our website is to acquire them in marketplaces that accept cryptocurrencies such as ETHEREUM, BITSKI, and FORMATIC. There is currently no mechanism to exchange NFTs with complete trust. We aim to create an open and safe NFT marketplace for everyone. This will be a challenge for both me and the contributors. Together we will create a reliable and beautiful NFT marketplace example.
 
 - Assume you are exchanging NFTs with someone. You must agree that one of you will send an NFT to the other first, and the other will respond with an NFT. In this instance, there is a possibility that the person who receives the NFT first will steal it, making it difficult to trade NFTs with confidence. As a result, we created a new platform that allows for the distributed blockchain direct transfer of NFTs.
------------------------------------------------------------------------------------------------------------------
+
 ## What it does
 - CLEVARMETA is a platform for the direct exchange of NFTs. To accomplish the exchange between users. Coming to the project idea – Wallet Basically, A wallet that allows you to spend your ethers.you’ll create a smart contract that is able to receive ethers from other addresses and transfer ethers to other addresses.
  
@@ -24,13 +24,13 @@
 - The NFT is sent from the bidder's wallet to your Container via their Container when they place a bid on an NFT. The customer accepts the process by tapping a button on the frontend app, and everything happens in real time.
 
 - NFT is among the offers received, and the NFT exchange occurs on your Canister. No one can freely operate their Canister and can only do the actions that have been programmed, thus making the exchange of NFTs. 
------------------------------------------------------------------------------------------------------------------
+
 ## How we built it
 - We have built this complete website using some languages, frameworks, platforms, cloud service, APIs and also updated the price list of NFT items. We have special care so that the customer or a bidder does not face any problem in buying any items, so we have used 9 different and various types of wallets.
 
 - Furthermore, CLEVARMETA includes all of the necessary features for a modern-day NFT marketplace, such as a bidding system and NFT collections, as well as allowing creators to sell and trade their digital works in various formats, such as images, GIFs, video.
 
-###Features
+### Features
 
 1. Complete Transparency
 - According to blockchain technology, a distributed database should contain a record of every NFT transaction. You can imagine it as a book of all transactions that continuously shows all of the activity on your marketplace.
@@ -48,23 +48,23 @@
 - websites and web tools are properly designed and coded, people with disabilities can use them. Make it easy to engage, offering multiple points of contact: phone, email, social media and perhaps an easy-to-use contact form. Google Maps is a bonus. Above all, make sure this information is available on an easily searchable contact page.
 8. Easy to Use
 - Some of the most basic and proven usability tips include the proper use of taglines, intuitive navigation, concise content, and strategic use of visuals. 
------------------------------------------------------------------------------------------------------------------
+
 ## Challenges we ran into
 - We have front-end developer in the team, designers in our team , so we can easily create websites with UI/UX design using some languages (CSS, JavaScript , React.js).
 - The team members were preoccupied with their studies , which made it challenging for us to do the project in the allotted time.
 - Since there isn't a lot of information on this NFT barter project online, we had to conduct a lot of experiments to determine the specifics and the best coding approaches.
------------------------------------------------------------------------------------------------------------------
+
 ## Accomplishments that we're proud of
 - We developed frontend functionality for the sequence of exhibiting, bidding, selection, and withdrawal for demonstrating the actual exchange using NFTs.
 - We gave documentation on this extent to create it simple for other designers to understand.
 - We wrote sufficient test codes.
 - We create website in wonderful UI/UX design which are very easy to use for users.
------------------------------------------------------------------------------------------------------------------
+
 ## What we learned
 - We learned how to develop codes for transferring NFT ownership.
 - We discovered how the Internet Computer scales.
 - We learned about how to manage many NFT item creators, buyers and also NFT expert bloggers on one platform at a time.
------------------------------------------------------------------------------------------------------------------
+
 ## What's next for CLEVER META - A Place Where Barter the NFT's.
 -  we develop Only Frontend Portion, In future we develop and implement in backend function 
 - Keeping track of exchange histories.
@@ -72,7 +72,7 @@
 - Create functionality that enables NFT owners to communicate with one another.
 - Integration with Plug and Wallet.
 - We built this website in three most common Communication languages: English, Hindi and French.
------------------------------------------------------------------------------------------------------------------
+
 ## Credits
 **Fonts & Icons** :
 - Font-Awesome
@@ -97,7 +97,7 @@
 
 **APIs**: 
 - Google map
------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
