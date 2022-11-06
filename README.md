@@ -18,7 +18,9 @@
 
 # Screenshot 
  ## Home Page
-    ![Screenshot (190)](https://user-images.githubusercontent.com/66480577/200175377-ae262d63-29d0-4c28-adaf-1f194a4fc75b.png)
+   ![Screenshot (190)](https://user-images.githubusercontent.com/66480577/200175571-5f65818b-7b39-4cc2-aa7f-e1a7a2df0c5c.png)
+
+ 
 ## Home Page In Lite Version
  ![Screenshot (295)](https://user-images.githubusercontent.com/66480577/200175416-fde8ef13-aa9e-4895-8be2-e3d0bb1d91a5.png)
 
